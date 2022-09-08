@@ -1,12 +1,14 @@
 .header {
-    background-color: beige;
+    background-color: $beige;
+    @include estiloHeader;
+
 }
 
 .header a{
     font-size: larger;
 }
 
-header a:hover {
+a:hover {
     font-weight: bold;
   }
 

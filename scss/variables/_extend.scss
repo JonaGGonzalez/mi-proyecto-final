@@ -1,0 +1,13 @@
+//extend
+
+%estiloFooter{
+    background-color: $beige;
+}
+
+
+//mixin
+
+@mixin estiloHeader {
+    font-size: larger;
+}
+

@@ -1,0 +1,35 @@
+@import "./variables/colores";
+@import "./variables/extend";
+
+@import "./componentes/componentes-bt";
+@import "./secciones/header";
+@import "./secciones/main-index";
+@import "./secciones/footer";
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fa-facebook {  
+    color: $azul;
+  }
+
+  .fa-square-instagram {    
+    color: $fucsia;
+  }
+  
+  .fa-square-twitter {  
+    color: $turquesa;
+  }
+
+  
+
+
+
+
+
+
+
