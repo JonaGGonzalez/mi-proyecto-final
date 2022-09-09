@@ -1,0 +1,13 @@
+KEYWORDS
+index: natural, dietetica, saludable, light, frutos, secos
+contacto: contacto, ayuda, atencion, cliente, natural, dietetica
+nosotros: acerca, nosotros, historia, natural, dietetica
+productos: frutos, especias, cereales, legumbres, natural, dietetica
+sucursales: Belgrano, Nuñez, Caballito, Palermo, natural, dietetica
+
+DESCRIPTION
+index: Todo Natural es tu tienda saludable online donde encontras todo lo que buscas
+contacto: Completa el formulario y recibi ayuda online
+nosotros: Conoce la historia de Todo Natural
+productos: Conoce todos nuestros productos disponibles
+sucursales: Descubri tu sucursal mas cercana
