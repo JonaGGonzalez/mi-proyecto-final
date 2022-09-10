@@ -1,10 +1,10 @@
 @import "./variables/colores";
 @import "./variables/extend";
 
-@import "./componentes/componentes-bt";
 @import "./secciones/header";
 @import "./secciones/main-index";
 @import "./secciones/footer";
+@import "./componentes/componentes-bt";
 
 
 *{
@@ -23,6 +23,15 @@
   
   .fa-square-twitter {  
     color: $turquesa;
+  }
+
+  .form-control{
+    background-color: antiquewhite;
+  }
+
+  .color-boton {
+    color: white;
+    background-color: black;
   }
 
   

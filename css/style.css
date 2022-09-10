@@ -2,34 +2,6 @@
   background-color: rgba(244, 211, 171, 0.945);
 }
 
-.card {
-  background-color: antiquewhite;
-}
-
-.carousel-item img {
-  max-height: 70vh;
-}
-
-.fa-facebook {
-  font-size: 3rem;
-}
-
-.fa-square-instagram {
-  font-size: 3rem;
-}
-
-.fa-square-twitter {
-  font-size: 3rem;
-}
-
-.fa-whatsapp {
-  font-size: 3rem;
-  color: rgb(22, 187, 7);
-  position: fixed;
-  bottom: 40px;
-  right: 40px;
-}
-
 .header {
   background-color: rgba(244, 211, 171, 0.945);
   font-size: larger;
@@ -68,6 +40,38 @@ h1 {
   margin-bottom: 3vh;
 }
 
+.card {
+  background-color: antiquewhite;
+}
+
+.card:hover {
+  transform: translateY(-3%);
+}
+
+.carousel-item img {
+  max-height: 70vh;
+}
+
+.fa-facebook {
+  font-size: 3rem;
+}
+
+.fa-square-instagram {
+  font-size: 3rem;
+}
+
+.fa-square-twitter {
+  font-size: 3rem;
+}
+
+.fa-whatsapp {
+  font-size: 3rem;
+  color: rgb(22, 187, 7);
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -84,6 +88,15 @@ h1 {
 
 .fa-square-twitter {
   color: darkturquoise;
+}
+
+.form-control {
+  background-color: antiquewhite;
+}
+
+.color-boton {
+  color: white;
+  background-color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
