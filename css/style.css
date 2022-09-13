@@ -78,6 +78,10 @@ h1 {
   box-sizing: border-box;
 }
 
+.fa-brands {
+  text-decoration: none;
+}
+
 .fa-facebook {
   color: rgba(0, 0, 255, 0.603);
 }
