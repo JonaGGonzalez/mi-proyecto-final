@@ -30,13 +30,15 @@
   }
 
   .form-control{
-    background-color: antiquewhite;
+    background-color: $antiquewhite;
   }
 
   .color-boton {
-    color: white;
-    background-color: black;
+    color: $blanco;
+    background-color: $negro;
   }
+
+
 
 
 
