@@ -9,8 +9,12 @@
 
 //mixin
 
-@mixin estiloHeader {
-    font-size: larger;
+
+
+@mixin cards {
+    .card:hover{
+        transform: translateY(-3%);
+      }
 }
 
 
