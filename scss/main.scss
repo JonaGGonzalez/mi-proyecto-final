@@ -6,47 +6,33 @@
 @import "./secciones/footer";
 @import "./componentes/componentes-bt";
 
-
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .fa-brands {
   text-decoration: none;
 }
 
-.fa-facebook {  
-    color: $azul;
-  }
+.fa-facebook {
+  color: $azul;
+}
 
-  .fa-square-instagram {    
-    color: $fucsia;
-  }
-  
-  .fa-square-twitter {  
-    color: $turquesa;
-  }
+.fa-square-instagram {
+  color: $fucsia;
+}
 
-  .form-control{
-    background-color: $antiquewhite;
-  }
+.fa-square-twitter {
+  color: $turquesa;
+}
 
-  .color-boton {
-    color: $blanco;
-    background-color: $negro;
-  }
+.form-control {
+  background-color: $antiquewhite;
+}
 
-
-
-
-
-  
-
-
-
-
-
-
-
+.color-boton {
+  color: $blanco;
+  background-color: $negro;
+}

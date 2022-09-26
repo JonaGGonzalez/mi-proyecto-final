@@ -1,17 +1,16 @@
 .header {
-    background-color: $beige;
-    @include estiloHeader;
-
+  background-color: $beige;
+  @include estiloHeader;
 }
 
-.header a{
-    font-size: larger;
+.header a {
+  font-size: larger;
 }
 
 a:hover {
-    font-weight: bold;
-  }
+  font-weight: bold;
+}
 
-.color-nav{
-background-color: rgba(244, 211, 171, 0.945);
+.color-nav {
+  background-color: rgba(244, 211, 171, 0.945);
 }
