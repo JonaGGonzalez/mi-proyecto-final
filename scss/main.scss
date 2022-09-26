@@ -17,15 +17,26 @@
 }
 
 .fa-facebook {
+  font-size: 3rem;
   color: $azul;
 }
 
 .fa-square-instagram {
+  font-size: 3rem;
   color: $fucsia;
 }
 
 .fa-square-twitter {
+  font-size: 3rem;
   color: $turquesa;
+}
+
+.fa-whatsapp{
+  font-size: 3rem;
+  color: rgb(22, 187, 7);
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
 }
 
 .form-control {
