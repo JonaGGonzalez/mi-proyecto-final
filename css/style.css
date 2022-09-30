@@ -7,6 +7,8 @@
 }
 .header a:hover {
   font-weight: bold;
+  transform: scale(1.1);
+  transition: 0.5;
 }
 
 .color-nav {
@@ -54,6 +56,10 @@ h1 {
 
 .fa-brands {
   text-decoration: none;
+}
+
+.fa-brands:hover {
+  transform: translateY(-3px) scale(1.05);
 }
 
 .fa-facebook {
